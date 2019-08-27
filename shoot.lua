@@ -1,4 +1,4 @@
-local cw,pw,tie = 0,0,0
+local cw,pw,tie = 0,0,0 --comment
 math.randomseed( os.time() )
 print([[
              Shoot!
