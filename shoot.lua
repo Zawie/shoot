@@ -1,5 +1,5 @@
 local cw,pw,tie = 0,0,0 --comment
-print()
+print("g")
 math.randomseed( os.time() )
 print([[
              Shoot!
